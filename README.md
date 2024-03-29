@@ -7,7 +7,7 @@ Just an overview of my CoGrammer/Hyperiondev boot camp tasks and how I approache
  - [T09 - OOP - Classes](T09%20-%20OOP%20-%20Classes)
 
 ## Installation and Setup
-All you need to get rolling with everything here is a standard python environment, and shell script interpreter.
+All you need to get rolling with everything here is a standard python environment, and a shell script interpreter.
 As per now no external libraries are used.
 
 ## Usage
